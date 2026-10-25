@@ -49,7 +49,4 @@ The bot reads `config.json` next to `index.js`.
 
 ## License and credits
 
-MIT License, see [LICENSE](LICENSE).
-
-* [chatgpt](https://github.com/transitive-bullshit/chatgpt-api) by Travis Fischer: MIT License
-* [discord.js](https://discord.js.org/): Apache-2.0 License
+MIT License, see [LICENSE](LICENSE). Built on [chatgpt](https://github.com/transitive-bullshit/chatgpt-api) by Travis Fischer (MIT) and [discord.js](https://discord.js.org/) (Apache-2.0).
